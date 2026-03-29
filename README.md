@@ -1,8 +1,4 @@
-<img align="right" src="https://github-readme-stats-gray-kappa-25.vercel.app/api?username=The-niceU&theme=merko&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-niceU&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @The-niceU
 - 👀 I’m interested in Programming and Implementation
