@@ -94,10 +94,14 @@
 > *Not just a cog in the code, but the engine that powers the future.*
 > — Winyee
 
-![visitor badge](https://img.shields.io/badge/@The--niceU-git?style=social&logo=github&label=&labelColor=green&color=blue)
-![visitor badge](https://img.shields.io/badge/@Nice__U-lc?style=social&logo=leetcode&label=&labelColor=green&color=blue)
-![visitor badge](https://img.shields.io/badge/@Winyee-wehcat?style=social&logo=wechat&label=&labelColor=green&color=blue)  
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=The-niceU&right_color=green&left_text=views)
+<a href="https://the-niceu.github.io/blog/"><img src="https://img.shields.io/badge/github-git?style=social&logo=github&label=&labelColor=black&color=black"/></a>
+<a href="https://www.kaggle.com/winyii"><img src="https://img.shields.io/badge/kaggle-git?style=social&logo=kaggle&label=&labelColor=black&color=black"/></a> 
+<a href="https://leetcode.cn/u/da-yige-qia-mi"><img src="https://img.shields.io/badge/leetcode-git?style=social&logo=leetcode&label=&labelColor=black&color=black"/></a>  
+<a href="https://www.reddit.com/user/Significant_Duty9892/"><img src="https://img.shields.io/badge/reddit-git?style=social&logo=reddit&label=&labelColor=black&color=black"/></a>  
+<a href="https://www.instagram.com/yiwei.niceu"><img src="https://img.shields.io/badge/instagram-git?style=social&logo=instagram&label=&labelColor=black&color=black"/></a>  
+<a href="mailto:yiwei.niceu@gmail.com"><img src="https://img.shields.io/badge/gmail-git?style=social&logo=gmail&label=&labelColor=black&color=black"/></a>  
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=The-niceU&left_color=%2391a8b8&right_color=%23c2e4fc&left_text=views)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!)](https://git.io/typing-svg)
 
