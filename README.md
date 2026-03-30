@@ -1,5 +1,5 @@
-### 👋 Hi there, I’m The-niceU - an undergraduate developer, who cares about writing clean, maintainable code and building solid, scalable system architectures
-
+#### 👋 Hi there, I’m The-niceU - an undergraduate developer, who cares about writing clean, maintainable code and building solid, scalable system architectures
+---
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=The-niceU&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
 
 -  I ❤ Web Developement, Full-stack Development and Nodejs.
@@ -95,12 +95,13 @@
 > — Winyee
 
 <a href="https://the-niceu.github.io/blog/"><img src="https://img.shields.io/badge/github-git?style=social&logo=github&label=&labelColor=black&color=black"/></a>
+<a href="https://stackoverflow.com/users/32564153/winyee"><img src="https://img.shields.io/badge/stackoverflow-git?style=social&logo=stackoverflow&label=&labelColor=black&color=black"/></a> 
+<a href="https://leetcode.cn/u/da-yige-qia-mi"><img src="https://img.shields.io/badge/leetcode-git?style=social&logo=leetcode&label=&labelColor=black&color=black"/></a>
 <a href="https://www.kaggle.com/winyii"><img src="https://img.shields.io/badge/kaggle-git?style=social&logo=kaggle&label=&labelColor=black&color=black"/></a> 
-<a href="https://leetcode.cn/u/da-yige-qia-mi"><img src="https://img.shields.io/badge/leetcode-git?style=social&logo=leetcode&label=&labelColor=black&color=black"/></a>  
-<a href="https://www.reddit.com/user/Significant_Duty9892/"><img src="https://img.shields.io/badge/reddit-git?style=social&logo=reddit&label=&labelColor=black&color=black"/></a>  
+<a href="https://www.reddit.com/user/Significant_Duty9892"><img src="https://img.shields.io/badge/reddit-git?style=social&logo=reddit&label=&labelColor=black&color=black"/></a>  
+<a href="https://www.facebook.com/yi.wei.569677"><img src="https://img.shields.io/badge/facebook-git?style=social&logo=facebook&label=&labelColor=black&color=black"/></a>  
 <a href="https://www.instagram.com/yiwei.niceu"><img src="https://img.shields.io/badge/instagram-git?style=social&logo=instagram&label=&labelColor=black&color=black"/></a>  
 <a href="mailto:yiwei.niceu@gmail.com"><img src="https://img.shields.io/badge/gmail-git?style=social&logo=gmail&label=&labelColor=black&color=black"/></a>  
-
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=The-niceU&left_color=%2391a8b8&right_color=%23c2e4fc&left_text=views)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!)](https://git.io/typing-svg)
