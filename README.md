@@ -9,13 +9,6 @@
 - ⚡ Sometimes I build side projects just to figure out how things work under the hood, and I'm always ready to meet more wonderful tech and like-minded friends!
 - 📫 How to reach me: You can send me a message or drop me an email via GitHub.
 
-
-
-<!---
-The-niceU/The-niceU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ---
 
 ```diff
@@ -25,13 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-
-
-## 🔥 My tech-stack 
+<h4>🔥 My tech-stack </h4>
 
 <img align="right" src="https://github-readme-stats-gray-kappa-25.vercel.app/api/top-langs/?username=The-niceU&layout=compact&hide=Batchfile,PHP,C&langs_count=10&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
-### 🚀Programming & Markup Languages
+<h5> 🚀Programming & Markup Languages </h5>
 
 <p>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -49,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" />  
 </p>
 
-### 🔧Frameworks, Platforms & Core Libraries
+<h5> 🔧Frameworks, Platforms & Core Libraries </h5>
 <p>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
@@ -66,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
 </p>
 
-###  🛠️Development Tools & Environments
+<h5> 🛠️Development Tools & Environments </h5>
 
 <p>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
