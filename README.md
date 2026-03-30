@@ -1,4 +1,3 @@
-![wavetop](https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg)
 ### 👋 Hi there, I’m The-niceU - an undergraduate developer, who cares about writing clean, maintainable code and building solid, scalable system architectures
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=The-niceU&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
@@ -109,6 +108,5 @@ You can click the Preview link to take a look at your changes.
 ![visitor badge](https://img.shields.io/badge/@Winyee-wehcat?style=social&logo=wechat&label=&labelColor=green&color=blue)  
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=The-niceU&right_color=green&left_text=views)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!)](https://git.io/typing-svg)
-![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!)](https://git.io/typing-svg)
 
