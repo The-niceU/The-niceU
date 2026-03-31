@@ -1,4 +1,4 @@
-#### 👋 Hi there, I’m The-niceU - an undergraduate developer, who cares about writing clean, maintainable code and building solid, scalable system architectures
+#### 👋 Hi there, I’m The-niceU - an undergraduate developer, who cares about writing clean, maintainable code and building solid, scalable system architectures.
 ---
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=The-niceU&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
 
@@ -22,7 +22,7 @@
 
 <img align="right" src="https://github-readme-stats-gray-kappa-25.vercel.app/api/top-langs/?username=The-niceU&layout=compact&hide=Batchfile,PHP,C&langs_count=10&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
-<h5> 🚀Programming & Markup Languages </h5>
+<h5>🚀 Programming Languages & Markup Languages </h5>
 
 <p>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -40,7 +40,7 @@
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" />  
 </p>
 
-<h5> 🔧Frameworks, Platforms & Core Libraries </h5>
+<h5>🔧 Frameworks, Platforms & Core Libraries </h5>
 <p>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
@@ -57,7 +57,7 @@
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
 </p>
 
-<h5> 🛠️Development Tools & Environments </h5>
+<h5>🛠️ Development Tools & Environments </h5>
 
 <p>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
