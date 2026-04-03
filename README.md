@@ -2,7 +2,7 @@
 ---
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=The-niceU&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
 
--  I ❤ Web Developement, Full-stack Development and Nodejs.
+-  I ❤ Web, Full-stack Development and Nodejs.
 - 🔭 I'm dedicated to build tools that truly solve practical problems and systems that remain understandable, maintainable and valuable over time.
 - 🌱 Right now I'm focusing on Java & C++, while exploring deeper technical topics including **backend systems, cloud infrastructure and AI tools**.
 - 🤝 I'm always open to interesting open-source collaborations and creative technical exchanges.
