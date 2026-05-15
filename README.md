@@ -94,7 +94,6 @@
  ---
 
 > *Not just a cog in the code, but the engine that powers the future.*
-> — Winyee
 
 <a href="https://the-niceu.github.io/blog/"><img src="https://img.shields.io/badge/github-git?style=social&logo=github&label=&labelColor=black&color=black"/></a>
 <a href="https://stackoverflow.com/users/32564153/winyee"><img src="https://img.shields.io/badge/stackoverflow-git?style=social&logo=stackoverflow&label=&labelColor=black&color=black"/></a> 
